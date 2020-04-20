@@ -27,5 +27,6 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="280dp"
+        style="@style/NiceButton"
         android:text="Save" />
 </RelativeLayout>
